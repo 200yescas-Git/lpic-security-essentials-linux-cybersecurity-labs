@@ -1,2 +1,2 @@
-# Cybersecurity-Linux
-Hardening-SElinux SOC-Blue Team
+<p aling="center">
+  <img src="
