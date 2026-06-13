@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">LPIC Study Repository</h1>
-<p align="center">Linux Essentials • LPIC-1 • LPIC-2 • LPIC-3</p>
+<p align="center">Linux Security Essentials-3</p>
 
 # Linux Security Essentials (LPIC)
 
