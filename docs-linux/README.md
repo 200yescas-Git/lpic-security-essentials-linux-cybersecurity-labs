@@ -129,6 +129,12 @@ Las prácticas incluyen:
 - Protección de la identidad digital.
 - Aplicación de buenas prácticas de seguridad.
 
+## Estructura del repositorio
+
+- `docs/` → documentación teórica por dominio
+- `labs/` → laboratorios prácticos
+- `assets/` → capturas, diagramas y recursos
+
 ## Resumen
 
 La seguridad informática es un componente fundamental en cualquier entorno tecnológico moderno. Los conocimientos cubiertos por Security Essentials proporcionan una base sólida para comprender amenazas, mecanismos de protección y buenas prácticas que servirán como fundamento para estudios y especializaciones más avanzadas.
