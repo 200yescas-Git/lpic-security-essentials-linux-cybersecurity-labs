@@ -146,3 +146,12 @@ Fortalecer mis conocimientos en seguridad informática y administración de sist
 - DevOps
 - Cloud Computing
 
+**Autor:** Yescas  
+**Automatización | Linux | Redes | Ciberseguridad | DevOps | Cloud Computing**
+
+>[NOTE!]
+>Este repositorio documenta el progreso, las prácticas y los conocimientos adquiridos durante cada etapa de esta ruta profesional.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
