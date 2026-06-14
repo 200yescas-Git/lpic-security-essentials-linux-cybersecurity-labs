@@ -1,18 +1,29 @@
 # Lab Environment - Security Essentials
 
 ## Virtualization Platform
+
 - VMware Workstation
 
 ## Operating System
+
 - Debian GNU/Linux (latest stable)
 
-## ISO Used
-- Debian 13 Trixie
+## ISO Used Information
+
+- Distribución: Debian 13.4.0 Trixie
+- Arquitectura: amd64
+- Tipo: DVD ISO
+
+
+## Site Official Debian
+
+https://www.debian.org/
 
 ## Hardware Configuration
+
 - CPU: 2 cores
 - RAM: 4 GB
-- Storage: 40 GB
+- Storage: 30 GB
 - Network: NAT / Bridged (depending on lab)
 
 ## User Setup
