@@ -14,3 +14,12 @@ Esta certificación proporciona una base sólida para comprender los principios 
 # Objetivo del repositorio
 
 Documentar mi proceso de aprendizaje mediante notas, laboratorios prácticos y ejercicios relacionados con los temas cubiertos por la certificación Security Essentials.
+
+El contenido incluye:
+
+- Notas técnicas y documentación de estudio.
+- Laboratorios prácticos.
+- Evidencias de aprendizaje.
+- Ejercicios de seguridad informática.
+- Recursos complementarios para reforzar conocimientos.
+
