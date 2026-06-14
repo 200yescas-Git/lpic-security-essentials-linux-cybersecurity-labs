@@ -6,3 +6,16 @@ Security Essentials es una certificación del Linux Professional Institute (LPI)
 
 ---
 
+
+## Objetivo del Repositorio
+
+Este repositorio tiene como finalidad:
+
+- Documentar mi proceso de aprendizaje.
+- Organizar notas técnicas y documentación.
+- Registrar laboratorios prácticos.
+- Consolidar conocimientos fundamentales de ciberseguridad.
+- Crear un portafolio técnico orientado a infraestructura, Linux y seguridad informática.
+
+---
+
