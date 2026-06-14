@@ -133,3 +133,8 @@ Las prácticas incluyen:
 
 La seguridad informática es un componente fundamental en cualquier entorno tecnológico moderno. Los conocimientos cubiertos por Security Essentials proporcionan una base sólida para comprender amenazas, mecanismos de protección y buenas prácticas que servirán como fundamento para estudios y especializaciones más avanzadas.
 
+## Acerca de este repositorio
+
+Este repositorio documenta mi proceso de aprendizaje y preparación para la certificación LPI Security Essentials.
+
+Aquí se recopilan notas de estudio, documentación técnica y laboratorios prácticos relacionados con los dominios de conocimiento de la certificación, con el objetivo de reforzar los fundamentos de la seguridad informática y desarrollar habilidades prácticas aplicables en entornos reales.
