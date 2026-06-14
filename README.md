@@ -39,6 +39,8 @@ Comprensión de los principios fundamentales que permiten proteger información,
 - Principios de mínimo privilegio
 - Defensa en profundidad
 
+---
+
 ### 2. Criptografía
 
 Introducción a los mecanismos utilizados para proteger información mediante técnicas criptográficas.
@@ -55,11 +57,11 @@ Introducción a los mecanismos utilizados para proteger información mediante t�
 
 ---
 
-## 3. Gestión de Identidad y Control de Acceso
+### 3. Gestión de Identidad y Control de Acceso
 
 Conceptos relacionados con la autenticación, autorización y administración de privilegios.
 
-### Temas cubiertos
+#### Temas cubiertos
 
 - Identidad digital
 - Autenticación
@@ -71,11 +73,11 @@ Conceptos relacionados con la autenticación, autorización y administración de
 
 ---
 
-## 4. Seguridad de Redes
+### 4. Seguridad de Redes
 
 Principios y tecnologías utilizadas para proteger la comunicación entre sistemas.
 
-### Temas cubiertos
+#### Temas cubiertos
 
 - Firewalls
 - Segmentación de redes
@@ -88,11 +90,11 @@ Principios y tecnologías utilizadas para proteger la comunicación entre sistem
 
 ---
 
-## 5. Seguridad en Sistemas Linux
+### 5. Seguridad en Sistemas Linux
 
 Aplicación de conceptos de seguridad dentro de entornos Linux.
 
-### Temas cubiertos
+#### Temas cubiertos
 
 - Usuarios y grupos
 - Permisos y propiedad de archivos
@@ -104,11 +106,11 @@ Aplicación de conceptos de seguridad dentro de entornos Linux.
 
 ---
 
-## 6. Gestión de Riesgos y Buenas Prácticas
+### 6. Gestión de Riesgos y Buenas Prácticas
 
 Prácticas orientadas a la reducción de riesgos y mejora continua de la postura de seguridad.
 
-### Temas cubiertos
+#### Temas cubiertos
 
 - Gestión de vulnerabilidades
 - Backups
@@ -120,7 +122,7 @@ Prácticas orientadas a la reducción de riesgos y mejora continua de la postura
 
 ---
 
-# 🧪 Laboratorios
+## Laboratorios
 
 Los laboratorios incluidos en este repositorio están diseñados para reforzar los conceptos teóricos mediante actividades prácticas.
 
@@ -133,3 +135,4 @@ Algunos ejemplos incluyen:
 - Uso de SSH seguro.
 - Análisis de registros del sistema.
 - Aplicación de principios de hardening.
+
