@@ -14,6 +14,11 @@
 - Arquitectura: amd64
 - Tipo: DVD ISO
 
+## Verificación
+
+```bash
+sha256sum debian-13.4.0.iso
+```
 
 ## Site Official Debian
 
