@@ -136,3 +136,13 @@ Algunos ejemplos incluyen:
 - Análisis de registros del sistema.
 - Aplicación de principios de hardening.
 
+## Objetivo profesional
+
+Fortalecer mis conocimientos en seguridad informática y administración de sistemas Linux como parte de mi ruta de aprendizaje hacia áreas como:
+
+- Linux Administration
+- System Administration
+- Cybersecurity
+- DevOps
+- Cloud Computing
+
